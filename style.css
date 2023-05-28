@@ -1,0 +1,12 @@
+body{
+    text-align: center;
+    background:linear-gradient(#ffc0cb,yellow) ;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.heading{
+    text-shadow: 2px 2px #F8BBD0;
+    font-size: 20PX;
+}
+
